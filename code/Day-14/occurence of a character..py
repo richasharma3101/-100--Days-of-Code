@@ -7,4 +7,4 @@ def char_occurence(string):
         else:
             dict[n]=1
     return dict
-print(char_occurence(input("Enter a string")))
+print(char_occurence(input("Enter a string:")))
